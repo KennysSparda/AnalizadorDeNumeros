@@ -5,6 +5,7 @@ const divSaida = document.getElementById("saida")
 
 function preencher() {
   selectSaida.innerHTML = ""
+  selectSaida.setAttribute("size", lista.length)
   for(let i = 0; i<lista.length;i++) {
     selectSaida.innerHTML += `<option>${lista[i]}</option>`
   }
