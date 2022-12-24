@@ -23,8 +23,8 @@ function adicionarElem() {
       }
     }
     lista.push(parseInt(valorEntrada.value))
-    valorEntrada.value = ''
-    divSaida.innerHTML = ""
+    valorEntrada.value = "" 
+    divSaida.innerHTML = "Auardando..."
     preencher()
   }
 }
