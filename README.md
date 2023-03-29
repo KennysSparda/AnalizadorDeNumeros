@@ -7,13 +7,13 @@ A ideia é criar uma página onde possamos adicionar valores em um vetor e reali
 um análise sobre eles
 
 ### Página Inicial
-![Página Inicial](https://github.com/LosFodas/AnalizadorDeNumeros/img/prints/analizador-num-print-1.png)
+![Página Inicial](https://github.com/LosFodas/AnalizadorDeNumeros/blob/main/img/prints/analizador-num-print-1.png)
 
 ### Inserção dos dados
-![Página Inicial](https://github.com/LosFodas/AnalizadorDeNumeros/img/prints/analizador-num-print-2.png)
+![Página Inicial](https://github.com/LosFodas/AnalizadorDeNumeros/blob/main/img/prints/analizador-num-print-2.png)
 
 ### Resultado Final
-![Página Inicial](https://github.com/LosFodas/AnalizadorDeNumeros/img/prints/analizador-num-print-3.png)
+![Página Inicial](https://github.com/LosFodas/AnalizadorDeNumeros/blob/main/img/prints/analizador-num-print-3.png)
 
 ## Como executar o projeto
 
