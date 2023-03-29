@@ -1,27 +1,24 @@
-/* Cores --> */
+
 :root {
-  --primeira-cor: #ffbdfd;
-    --segunda-cor: #ffffe1;
-      --terceira-cor: #dbbdff;
-    --quarta-cor: #a6fc50;
-  --quinta-cor: #351bf7;
+  --primeira-cor: #ff77cc;
+  --segunda-cor: #222;
+  --fundo: #111;
 }
 
 body {
   text-align: center;
-    background-color: var(--terceira-cor);
-      color: var(--quarta-cor);
-        font: italic 24px candara;
-
+  background-color: var(--fundo);
+  color: var(--primeira-cor);
+  font: italic 24px candara;
 }
 
 div {
   margin: 10px auto;
-  border: dotted var(--segunda-cor);
-  border-radius: 50px;  
-  background-color: var(--terceira-cor);
-  width: 30%;
-  padding: 15px;
+  border: dotted var(--primeira-cor);
+  background-color: var(--segunda-cor);
+  width: 90%;
+  max-width: 1000px;
+  padding: 35x;
 }
 
 select {
@@ -29,31 +26,31 @@ select {
   text-align: center;
   width: 200px;
   border: none;
-  border-radius: 50px;
   padding: 8px;
   font: italic 24px cambria;
-  background-color: var(--primeira-cor);
-  color: var(--segunda-cor)
+  background-color: var(--fundo);
+  color: var(--primeira-cor)
 }
 
 input {
   font: italic 15px negrito candara;
   background-color: var(--segunda-cor);
-  color: var(--terceira-cor);
+  color: var(--primeira-cor);
   border: none;
-  border-radius: 50px;
   padding: 8px;
 } 
 
 button {
   font: italic 16px cambria;
   border: none;
-  border-radius: 50px;
+  margin: 8px;
   padding: 8px;
-  color: var(--quinta-cor) ;
-  background-color: var(--segunda-cor);
+  color: var(--primeira-cor) ;
+  background-color: var(--fundo);
+  box-shadow: 0 0 3px var(--primeira-cor);
 } 
 
 button:hover {
+  color: var(--fundo);
   background-color: var(--primeira-cor);
 }
