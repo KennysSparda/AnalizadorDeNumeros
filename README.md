@@ -29,8 +29,4 @@ Abra o arquivo index.html com um navegador de sua preferência
 - HTML
 - CSS
 
-# Autores
-Kenny de Souza Vargas
-Juliana Ganz
-
 portfolio: kennyvargas.vercel.app
